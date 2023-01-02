@@ -1,2 +1,3 @@
-# DOM-Practise
- Created to showcase JS projects
+# ProjectJS
+
+project practise
